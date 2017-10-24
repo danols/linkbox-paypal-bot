@@ -1,0 +1,1521 @@
+{
+  "chats": [
+    {
+      "user_address": "dano@maildots.com",
+      "parent_id": "<1508806746376.4259592@maildots.com>",
+      "messages": [
+        {
+          "access_token": "lyhHGFfIm6UKrGgANVQ3VcdI6pMiIj",
+          "account_address": "paypalbot@maildots.com",
+          "subject": "Awesome Bot",
+          "sent_date": 1508806746376,
+          "message_id": "<1508806746376.4259592@maildots.com>",
+          "team_token": "",
+          "content": "Hello! 😎",
+          "type": "message",
+          "encoding": "plain",
+          "method": "",
+          "reply_to": "",
+          "to": [
+            {
+              "name": "",
+              "address": "dano@maildots.com"
+            }
+          ],
+          "from": {
+            "name": "Paypal",
+            "address": "paypalbot@maildots.com"
+          },
+          "cc": [],
+          "bcc": [],
+          "references": [],
+          "attachments": [],
+          "sent_by": "paypalbot@maildots.com",
+          "input": []
+        },
+        {
+          "sent_date": 1508806800467,
+          "message_id": "<1508806800467.6099627@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "hey",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508806840101,
+          "message_id": "<1508806840101.2347667@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_name": "IMG_20170323_220549_processed-02.jpeg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508807045999,
+          "message_id": "<1508807045999.3237375@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508807268286,
+          "message_id": "<1508807268286.7110641@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "/",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "1529474645_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508808737073,
+          "message_id": "<1508808737073.2133491@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "749547907_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508808847793,
+          "message_id": "<1508808847793.6178506@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "1097481914_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508808938834,
+          "message_id": "<1508808938834.3498352@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "1008877428_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508808997430,
+          "message_id": "<1508808997430.9463853@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "858823592_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508809380433,
+          "message_id": "<1508809380433.9992626@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "2058380893_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508810373010,
+          "message_id": "<1508810373010.1501597@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "719980443_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508810577017,
+          "message_id": "<1508810577017.1910598@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "1562585341_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508811101778,
+          "message_id": "<1508811101778.9795081@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "393158840_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508811606361,
+          "message_id": "<1508811606361.1989826@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "427343437_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508811970240,
+          "message_id": "<1508811970240.4584272@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "265038195_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508812153291,
+          "message_id": "<1508812153291.3547498@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "1087489036_Screenshot_20171023-200103.jpg",
+              "attachment_name": "Screenshot_20171023-200103.jpg",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508816686286,
+          "message_id": "<1508816686286.1586314@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "299934455_Screenshot_20171016-104020.png",
+              "attachment_name": "Screenshot_20171016-104020.png",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508817022717,
+          "message_id": "<1508817022717.3236183@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "2144888561_Screenshot_20171012-144911.png",
+              "attachment_name": "Screenshot_20171012-144911.png",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508817163870,
+          "message_id": "<1508817163870.1012136@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "1725634207_Screenshot_20171012-144911.png",
+              "attachment_name": "Screenshot_20171012-144911.png",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508817570753,
+          "message_id": "<1508817570753.8042937@maildots.com>",
+          "subject": "Re: Awesome Bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "1760887830_Screenshot_20171012-144911.png",
+              "attachment_name": "Screenshot_20171012-144911.png",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "access_token": "lyhHGFfIm6UKrGgANVQ3VcdI6pMiIj",
+          "account_address": "paypalbot@maildots.com",
+          "subject": "RE: Paypal-bot",
+          "sent_date": 1508817570754,
+          "message_id": "<1508817570754.7593864@maildots.com>",
+          "team_token": "",
+          "content": "HOV 3G / 6 D 12/10 2:49 PM\nTweet\nEnrique Fernández . O\n@EffIPN\nInauguración de los Festejos del\n43 Aniversario de la Fundación de\nla Escuela Superior de Turismo\ndel IPN\nTranslate from Spanish\nTweet your reply\nHOV3G/6D12/102:49PMTweetEnriqueFernández.O@EffIPNInauguracióndelosFestejosdel43AniversariodelaFundacióndelaEscuelaSuperiordeTurismodelIPNTranslatefromSpanishTweetyourreply",
+          "type": "message",
+          "encoding": "plain",
+          "method": "",
+          "reply_to": "",
+          "to": [
+            {
+              "address": "dano@maildots.com",
+              "name": "Daniel"
+            }
+          ],
+          "from": {
+            "name": "Paypal",
+            "address": "paypalbot@maildots.com"
+          },
+          "cc": [],
+          "bcc": [],
+          "references": [
+            "<1508817570753.8042937@maildots.com>",
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [],
+          "sent_by": "paypalbot@maildots.com",
+          "input": []
+        },
+        {
+          "sent_date": 1508817636368,
+          "message_id": "<1508817636368.3046319@maildots.com>",
+          "subject": "RE: Paypal-bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508817570754.7593864@maildots.com>",
+            "<1508817570753.8042937@maildots.com>",
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "1332059261_Screenshot_20171016-104020.png",
+              "attachment_name": "Screenshot_20171016-104020.png",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "access_token": "lyhHGFfIm6UKrGgANVQ3VcdI6pMiIj",
+          "account_address": "paypalbot@maildots.com",
+          "subject": "RE: Paypal-bot",
+          "sent_date": 1508817636369,
+          "message_id": "<1508817636369.4622963@maildots.com>",
+          "team_token": "",
+          "content": "Or 4G / 18 16/10 10:40 AM\nO Linkbox\nMenu\nPriority: Low\nDescription: Create a new view\nManten a todos en la\nmisma pagina\nPuedes crear grupos de trabajo para\ncompartir información común como\nnoticias, anuncios o proyectos.\nE Teams\n: Team-linkbox\n11 Members\nRA R H\na Marketing-ads\n4 Members\nRRG\nOr4G/1816/1010:40AMOLinkboxMenuPriority:LowDescription:CreateanewviewMantenatodosenlamismapaginaPuedescreargruposdetrabajoparacompartirinformacióncomúncomonoticias,anunciosoproyectos.ETeams:Team-linkbox11MembersRARHaMarketing-ads4MembersRRG",
+          "type": "message",
+          "encoding": "plain",
+          "method": "",
+          "reply_to": "",
+          "to": [
+            {
+              "address": "dano@maildots.com",
+              "name": "Daniel"
+            }
+          ],
+          "from": {
+            "name": "Paypal",
+            "address": "paypalbot@maildots.com"
+          },
+          "cc": [],
+          "bcc": [],
+          "references": [
+            "<1508817636368.3046319@maildots.com>",
+            "<1508817570754.7593864@maildots.com>",
+            "<1508817570753.8042937@maildots.com>",
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [],
+          "sent_by": "paypalbot@maildots.com",
+          "input": []
+        },
+        {
+          "sent_date": 1508817930241,
+          "message_id": "<1508817930241.7803551@maildots.com>",
+          "subject": "RE: Paypal-bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508817636369.4622963@maildots.com>",
+            "<1508817636368.3046319@maildots.com>",
+            "<1508817570754.7593864@maildots.com>",
+            "<1508817570753.8042937@maildots.com>",
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "2105140285_Screenshot_20171016-103434.png",
+              "attachment_name": "Screenshot_20171016-103434.png",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "access_token": "lyhHGFfIm6UKrGgANVQ3VcdI6pMiIj",
+          "account_address": "paypalbot@maildots.com",
+          "subject": "RE: Paypal-bot",
+          "sent_date": 1508817930242,
+          "message_id": "<1508817930242.2081904@maildots.com>",
+          "team_token": "",
+          "content": "\")*V 4G / O 16/10 10:34 AM\nlinkboxapp.com/intles/product\ni1 :\nO Linkbox\nMenu\nA\nChannel #Sales\n1m\n@Sofi-Hi team\nMentions\n7m\n@Javier - Could you help me with this\n12m\nDirect messages\n@John shared a new photo\n10 GoogleDrive-bot\nSales report\nAgiliza tus tareas\nEn un solo click, convierte\nconversaciones en tareas y dales\nseguimiento como nunca antes.\n\")*V4G/O16/1010:34AMlinkboxapp.com/intles/producti1:OLinkboxMenuAChannel#Sales1m@Sofi-HiteamMentions7m@Javier-Couldyouhelpmewiththis12mDirectmessages@Johnsharedanewphoto10GoogleDrive-botSalesreportAgilizatustareasEnunsoloclick,convierteconversacionesentareasydalesseguimientocomonuncaantes.",
+          "type": "message",
+          "encoding": "plain",
+          "method": "",
+          "reply_to": "",
+          "to": [
+            {
+              "address": "dano@maildots.com",
+              "name": "Daniel"
+            }
+          ],
+          "from": {
+            "name": "Paypal",
+            "address": "paypalbot@maildots.com"
+          },
+          "cc": [],
+          "bcc": [],
+          "references": [
+            "<1508817930241.7803551@maildots.com>",
+            "<1508817636369.4622963@maildots.com>",
+            "<1508817636368.3046319@maildots.com>",
+            "<1508817570754.7593864@maildots.com>",
+            "<1508817570753.8042937@maildots.com>",
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [],
+          "sent_by": "paypalbot@maildots.com",
+          "input": []
+        },
+        {
+          "sent_date": 1508818327315,
+          "message_id": "<1508818327315.4707832@maildots.com>",
+          "subject": "RE: Paypal-bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508817930242.2081904@maildots.com>",
+            "<1508817930241.7803551@maildots.com>",
+            "<1508817636369.4622963@maildots.com>",
+            "<1508817636368.3046319@maildots.com>",
+            "<1508817570754.7593864@maildots.com>",
+            "<1508817570753.8042937@maildots.com>",
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "920958531_Screenshot_20171023-200103.png",
+              "attachment_name": "Screenshot_20171023-200103.png",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508818538556,
+          "message_id": "<1508818538556.5497379@maildots.com>",
+          "subject": "RE: Paypal-bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508818327315.4707832@maildots.com>",
+            "<1508817930242.2081904@maildots.com>",
+            "<1508817930241.7803551@maildots.com>",
+            "<1508817636369.4622963@maildots.com>",
+            "<1508817636368.3046319@maildots.com>",
+            "<1508817570754.7593864@maildots.com>",
+            "<1508817570753.8042937@maildots.com>",
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "1959682771_Screenshot_20171012-144911.png",
+              "attachment_name": "Screenshot_20171012-144911.png",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "sent_date": 1508818959562,
+          "message_id": "<1508818959562.4888701@maildots.com>",
+          "subject": "RE: Paypal-bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508818538556.5497379@maildots.com>",
+            "<1508818327315.4707832@maildots.com>",
+            "<1508817930242.2081904@maildots.com>",
+            "<1508817930241.7803551@maildots.com>",
+            "<1508817636369.4622963@maildots.com>",
+            "<1508817636368.3046319@maildots.com>",
+            "<1508817570754.7593864@maildots.com>",
+            "<1508817570753.8042937@maildots.com>",
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "1552502683_Screenshot_20171012-144911.png",
+              "attachment_name": "Screenshot_20171012-144911.png",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "access_token": "lyhHGFfIm6UKrGgANVQ3VcdI6pMiIj",
+          "account_address": "paypalbot@maildots.com",
+          "subject": "RE: Paypal-bot",
+          "sent_date": 1508818959563,
+          "message_id": "<1508818959563.0114413@maildots.com>",
+          "team_token": "",
+          "content": "HOV 3G / 6 D 12/10 2:49 PM\nTweet\nEnrique Fernández . O\n@EffIPN\nInauguración de los Festejos del\n43 Aniversario de la Fundación de\nla Escuela Superior de Turismo\ndel IPN\nTranslate from Spanish\nTweet your reply\nHOV3G/6D12/102:49PMTweetEnriqueFernández.O@EffIPNInauguracióndelosFestejosdel43AniversariodelaFundacióndelaEscuelaSuperiordeTurismodelIPNTranslatefromSpanishTweetyourreply",
+          "type": "message",
+          "encoding": "plain",
+          "method": "",
+          "reply_to": "",
+          "to": [
+            {
+              "address": "dano@maildots.com",
+              "name": "Daniel"
+            }
+          ],
+          "from": {
+            "name": "Paypal",
+            "address": "paypalbot@maildots.com"
+          },
+          "cc": [],
+          "bcc": [],
+          "references": [
+            "<1508818959562.4888701@maildots.com>",
+            "<1508818538556.5497379@maildots.com>",
+            "<1508818327315.4707832@maildots.com>",
+            "<1508817930242.2081904@maildots.com>",
+            "<1508817930241.7803551@maildots.com>",
+            "<1508817636369.4622963@maildots.com>",
+            "<1508817636368.3046319@maildots.com>",
+            "<1508817570754.7593864@maildots.com>",
+            "<1508817570753.8042937@maildots.com>",
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [],
+          "sent_by": "paypalbot@maildots.com",
+          "input": []
+        },
+        {
+          "sent_date": 1508819023829,
+          "message_id": "<1508819023829.3974158@maildots.com>",
+          "subject": "RE: Paypal-bot",
+          "content": "",
+          "type": "message",
+          "encoding": "plain",
+          "method_message": "new",
+          "reply_to": null,
+          "from": {
+            "address": "dano@maildots.com",
+            "name": "Daniel"
+          },
+          "to": [
+            {
+              "address": "paypalbot@maildots.com",
+              "name": "paypalbot@maildots.com"
+            }
+          ],
+          "cc": [],
+          "bcc": [],
+          "input": [],
+          "references": [
+            "<1508818959563.0114413@maildots.com>",
+            "<1508818959562.4888701@maildots.com>",
+            "<1508818538556.5497379@maildots.com>",
+            "<1508818327315.4707832@maildots.com>",
+            "<1508817930242.2081904@maildots.com>",
+            "<1508817930241.7803551@maildots.com>",
+            "<1508817636369.4622963@maildots.com>",
+            "<1508817636368.3046319@maildots.com>",
+            "<1508817570754.7593864@maildots.com>",
+            "<1508817570753.8042937@maildots.com>",
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [
+            {
+              "attachment_key": "831396203_Screenshot_20171016-104020.png",
+              "attachment_name": "Screenshot_20171016-104020.png",
+              "size": 0
+            }
+          ],
+          "team_token": "",
+          "sent_by": null,
+          "account_address": "paypalbot@maildots.com"
+        },
+        {
+          "access_token": "lyhHGFfIm6UKrGgANVQ3VcdI6pMiIj",
+          "account_address": "paypalbot@maildots.com",
+          "subject": "RE: Paypal-bot",
+          "sent_date": 1508819023830,
+          "message_id": "<1508819023830.3887993@maildots.com>",
+          "team_token": "",
+          "content": "Or 4G / 18 16/10 10:40 AM\nO Linkbox\nMenu\nPriority: Low\nDescription: Create a new view\nManten a todos en la\nmisma pagina\nPuedes crear grupos de trabajo para\ncompartir información común como\nnoticias, anuncios o proyectos.\nE Teams\n: Team-linkbox\n11 Members\nRA R H\na Marketing-ads\n4 Members\nRRG\nOr4G/1816/1010:40AMOLinkboxMenuPriority:LowDescription:CreateanewviewMantenatodosenlamismapaginaPuedescreargruposdetrabajoparacompartirinformacióncomúncomonoticias,anunciosoproyectos.ETeams:Team-linkbox11MembersRARHaMarketing-ads4MembersRRG",
+          "type": "message",
+          "encoding": "plain",
+          "method": "",
+          "reply_to": "",
+          "to": [
+            {
+              "address": "dano@maildots.com",
+              "name": "Daniel"
+            }
+          ],
+          "from": {
+            "name": "Paypal",
+            "address": "paypalbot@maildots.com"
+          },
+          "cc": [],
+          "bcc": [],
+          "references": [
+            "<1508819023829.3974158@maildots.com>",
+            "<1508818959563.0114413@maildots.com>",
+            "<1508818959562.4888701@maildots.com>",
+            "<1508818538556.5497379@maildots.com>",
+            "<1508818327315.4707832@maildots.com>",
+            "<1508817930242.2081904@maildots.com>",
+            "<1508817930241.7803551@maildots.com>",
+            "<1508817636369.4622963@maildots.com>",
+            "<1508817636368.3046319@maildots.com>",
+            "<1508817570754.7593864@maildots.com>",
+            "<1508817570753.8042937@maildots.com>",
+            "<1508817163870.1012136@maildots.com>",
+            "<1508817022717.3236183@maildots.com>",
+            "<1508816686286.1586314@maildots.com>",
+            "<1508812153291.3547498@maildots.com>",
+            "<1508811970240.4584272@maildots.com>",
+            "<1508811606361.1989826@maildots.com>",
+            "<1508811101778.9795081@maildots.com>",
+            "<1508810577017.1910598@maildots.com>",
+            "<1508810373010.1501597@maildots.com>",
+            "<1508809380433.9992626@maildots.com>",
+            "<1508808997430.9463853@maildots.com>",
+            "<1508808938834.3498352@maildots.com>",
+            "<1508808847793.6178506@maildots.com>",
+            "<1508808737073.2133491@maildots.com>",
+            "<1508807268286.7110641@maildots.com>",
+            "<1508807045999.3237375@maildots.com>",
+            "<1508806840101.2347667@maildots.com>",
+            "<1508806800467.6099627@maildots.com>",
+            "<1508806746376.4259592@maildots.com>"
+          ],
+          "attachments": [],
+          "sent_by": "paypalbot@maildots.com",
+          "input": []
+        }
+      ]
+    }
+  ]
+}

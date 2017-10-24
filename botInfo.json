@@ -1,0 +1,27 @@
+{
+    "client_id": "n6gA2WE1DngtkngJ",
+    "client_secret": "$Xav96ch8gDJxE1U",
+    "device_id": "1A7x1xs5Xf2S",
+    "mail_address": "paypalbot@maildots.com"
+}
+{
+    "access_token": "lyhHGFfIm6UKrGgANVQ3VcdI6pMiIj",
+    "refresh_token": "NETY1kZw80PiuUWb58nf9mi7vSSoVP",
+    "channel_name": "private-3lRJSfDEpb"
+}
+{
+    "name": "Paypal-bot",
+    "description": "A bot for Paypal",
+    "icon_large": "http://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Paypal-icon.png",
+    "icon_small": "http://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Paypal-icon.png",
+    "panel_url": "",
+    "status":"debug",
+    "category":"Experimental",
+    "commands": [],
+    "bots_dependencies": [],
+    "access_token": "lyhHGFfIm6UKrGgANVQ3VcdI6pMiIj"
+}
+{
+    "bot_token": "qMQvdn3WX29FgcTdx7dzz5WO2ZW7ey",
+    "channel_name": "private-bot4tf4YJcWFr"
+}

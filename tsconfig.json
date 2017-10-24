@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"outDir": "./build",
+		"sourceMap": true,
+		"rootDir": "."
+	},
+	"exclude": [
+		"node_modules"
+	]
+}
